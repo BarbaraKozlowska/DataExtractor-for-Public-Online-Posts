@@ -3,6 +3,7 @@ DataExtractor script for collecting and storing public online post data within a
 
 DataExtractor for Public Online Posts
 Introduction:
+
 This project is a Python script designed to collect and store data from publicly accessible online sources, such as subreddits or online forums, within a defined date range. The script extracts relevant information from each entry, including content, date, engagement metrics (likes or equivalent), comments (if available), and entry links. The collected data can be saved in either CSV or JSON format for further analysis and usage.
 
 Usage:
